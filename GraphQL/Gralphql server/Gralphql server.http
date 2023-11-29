@@ -1,0 +1,6 @@
+@Gralphql_server_HostAddress = http://localhost:5163
+
+GET {{Gralphql_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
